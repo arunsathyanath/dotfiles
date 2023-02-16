@@ -1,4 +1,5 @@
 alias lla='ls -la'
+alias jl='julia --project=.'
 
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
